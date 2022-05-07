@@ -4,7 +4,7 @@ table, th, td {
   th,td{
     padding: 20px;
     width: 200px;
-  
+ 
   }
   .can{
     background-color: palevioletred;
